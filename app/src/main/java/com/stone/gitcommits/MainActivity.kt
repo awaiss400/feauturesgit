@@ -8,6 +8,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         //second commits
+        //feture first commit
         //MASTER THIRD COMIT
     }
 }
